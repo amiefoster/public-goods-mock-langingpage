@@ -7,21 +7,21 @@ function Middle() {
         <strong>OUR TREAT</strong>
       </h6>
       <div className="col-sm-6">
-        <img src={pic2} className="treat-pic"/>
+        <img src={pic2} className="treat-pic" />
         <div className="treat-text">
-        <h5>
-          <strong>Freeze Dried Minnows</strong>
-        </h5>
-        <h6>Healthy ingredients with nothing to hide.</h6>
+          <h5>
+            <strong>Freeze Dried Minnows</strong>
+          </h5>
+          <h6>Healthy ingredients with nothing to hide.</h6>
         </div>
       </div>
       <div className="col-sm-6">
-        <img src={pic2} className="treat-pic"/>
+        <img src={pic2} className="treat-pic" />
         <div className="treat-text">
-        <h5>
-          <strong>Freeze Dried Minnows</strong>
-        </h5>
-        <h6>Healthy ingredients with nothing to hide.</h6>
+          <h5>
+            <strong>Freeze Dried Minnows</strong>
+          </h5>
+          <h6>Healthy ingredients with nothing to hide.</h6>
         </div>
       </div>
     </div>

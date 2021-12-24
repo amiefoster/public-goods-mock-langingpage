@@ -1,18 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Mono:wght@200&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Mono:wght@200&display=swap");
 
-*{
-  font-family: 'Poppins', sans-serif;
-
+* {
+  font-family: "Poppins", sans-serif;
 }
 
-.landing-page{
-  margin: 30px;
+.landing-page {
+  margin: 100px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.top-container{
+.top-container {
   margin-bottom: 50px;
 }
 
@@ -31,46 +30,44 @@
   margin-right: auto;
 }
 
-.treat-container{
+.treat-container {
   background-color: #f4f4f4;
   margin-left: 20px;
   margin-right: 20px;
 }
 
-.treat-container-text{
+.treat-container-text {
   text-align: center;
   padding-top: 30px;
 }
 
-.treat-pic{
+.treat-pic {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.treat-text{
+.treat-text {
   text-align: center;
   padding-bottom: 30px;
 }
 
-.bottom-container{
+.bottom-container {
   margin: 1px;
 }
 
-.bottom-text{
+.bottom-text {
   margin-top: auto;
   margin-bottom: auto;
-  padding-left: 60px;;
-
+  padding-left: 60px;
 }
 
-.check{
-  margin-right: 10px
+.check {
+  margin-right: 10px;
 }
 
-.bottom-bullets{
+.bottom-bullets {
   font-size: large;
   list-style-type: none;
   padding-bottom: 15px;
 }
-
