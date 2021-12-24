@@ -5,10 +5,15 @@
   margin-right: auto;
 }
 
+.top-container{
+  margin-bottom: 50px;
+}
+
 .offer-button {
   text-align: center;
   background-color: #dc886b;
   padding: 10px;
+  cursor: pointer;
 }
 
 .desktop-pic {
@@ -20,6 +25,8 @@
 
 .treat-container{
   background-color: #f4f4f4;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .treat-container-text{
@@ -36,3 +43,14 @@
 .treat-text{
   text-align: center;
 }
+
+.bottom-text{
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+.check{
+  margin-right: 10px
+}
+

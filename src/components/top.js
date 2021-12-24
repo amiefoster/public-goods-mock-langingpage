@@ -14,7 +14,7 @@ function Top() {
             <li>Take a load off. We make it easy for you to make better choices. Always included: eco-friendly products you can trust.</li>
         </ul>
 
-        <h6 className="offer-button">Claim your free offer</h6>
+        <h6 className="offer-button" onClick={console.log("I've been clicked!")} >Claim your free offer</h6>
 
       </div>
       <div className="col-sm-6">
